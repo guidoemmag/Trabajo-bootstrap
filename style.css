@@ -1,0 +1,36 @@
+
+.background-nav{
+    background-color: #2A3338;
+}
+.footer-index{
+    background-color: #2A3338;
+}
+.footer-container{
+    color: white;
+    background-color: #2A3338;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-footer{
+    width: 30%;
+}
+.lista-footer{
+    padding-top: 20px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    padding-left:30px;
+}
+
+.section-main{
+    background-color: #2A3338;
+    padding-top: 20px;
+    color: white;
+}
+
+
+
+
